@@ -1,0 +1,8 @@
+# Ticket Booking App (Full-stack)
+## Quick start (using docker-compose)
+- Ensure Docker is installed.
+- Extract this repo and run:
+  - `docker-compose up --build`
+- Backend -> http://localhost:4000
+- Frontend -> http://localhost:3000
+- Admin create shows at /admin in frontend.
